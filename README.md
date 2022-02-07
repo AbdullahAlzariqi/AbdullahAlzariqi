@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdullahAlzariqi
-- 👀 I’m interested in Data science and cognitive computing 
-- 🌱 I’m currently learning Data analysis and neurobiology 
+- 👀 I’m interested in Data science  
+- 🌱 I’m currently learning Data analysis and Business Intelligence  
 - 💞️ I’m looking to collaborate onany projects tied to my fields of interest
 - 📫 How to reach me : abdallahtalat5597@gmail.com
 
